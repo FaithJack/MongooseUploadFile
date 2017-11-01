@@ -1,0 +1,3 @@
+/home/faith/MyServer/mongoose_server/test/CMakeFiles/edit_cache.dir
+/home/faith/MyServer/mongoose_server/test/CMakeFiles/rebuild_cache.dir
+/home/faith/MyServer/mongoose_server/test/CMakeFiles/hello_2.dir

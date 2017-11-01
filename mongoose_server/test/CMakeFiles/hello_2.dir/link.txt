@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/hello_2.dir/mycpp/main.cpp.o CMakeFiles/hello_2.dir/mycpp/WebServer.cpp.o CMakeFiles/hello_2.dir/myc/mongoose.c.o  -o hello_2 -rdynamic -pthread 
